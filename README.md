@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./assets/name2.svg?v=3" alt="Jung Jieun" width="380">
+  <img src="./assets/name.svg?v=3" alt="Jung Jieun" width="380">
 
   <p>
     <b>Backend · AI</b><br>

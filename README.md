@@ -1,4 +1,5 @@
-<img src="./assets/name.svg" alt="Jung Jieun" width="380">
+<img src="./assets/name.svg?v=2" alt="Jung Jieun" width="380">
+
 
 **Backend · AI**
 

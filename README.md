@@ -1,9 +1,11 @@
 
 # Jung Jieun
 
+
 **Backend · AI**
 
-<sub>Computer Engineering @ PNU (2024–Present)</sub>
+Computer Engineering @ PNU (2024–Present)
+
 
 ## Tech Stack
 

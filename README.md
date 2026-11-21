@@ -5,7 +5,7 @@
   <img src="./assets/name.svg?v=3" alt="Jung Jieun" width="380">
 
   <p>
-    <b>Backend · AI</b><br>
+    <b>Backend · AI · Data</b><br>
     Computer Engineering @ PNU (2024–Present)
   </p>
   <p>

@@ -1,9 +1,22 @@
-<img src="./assets/name.svg?v=2" alt="Jung Jieun" width="380">
 
 
-**Backend · AI**
 
-Computer Engineering @ PNU (2024–Present)
+<div align="center">
+  <img src="./assets/name2.svg?v=3" alt="Jung Jieun" width="380">
+
+  <p>
+    <b>Backend · AI</b><br>
+    Computer Engineering @ PNU (2024–Present)
+  </p>
+  <p>
+    <a href="mailto:g95eun@gmail.com">
+      <img src="https://img.shields.io/badge/Email-303030?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+
+
+
 
 
 ## ✦ Tech Stack
@@ -38,7 +51,7 @@ Computer Engineering @ PNU (2024–Present)
 
 | Project | Description | My Role | Service |
 |:---|:---|:---|:---|
-| **[Momentory](https://github.com/soma-momentory)** | AI 기반 감정 회고 & 웰니스 앱<br>![Launched on iOS & Android](https://img.shields.io/badge/Launched%20on%20iOS%20%26%20Android-606060?style=flat-square) | AI 회고 기능 기획 및 개발<br>LLM 프롬프트 최적화 및 품질 평가<br>LLM 개인화 A/B 테스트 설계 및 분석 | [iOS](https://apps.apple.com/kr/app/id6804971733) · [Android](https://play.google.com/store/apps/details?id=kr.momentory.app) |
+| **[Momentory](https://github.com/soma-momentory)** | AI 기반 감정 회고 & 웰니스 앱<br>![Launched on iOS & Android](https://img.shields.io/badge/Launched%20on%20iOS%20%26%20Android-606060?style=flat-square) | AI 회고 기획·개발<br>LLM 프롬프트 최적화·품질 평가<br>개인화 A/B 테스트 설계·분석 | [iOS](https://apps.apple.com/kr/app/id6804971733) · [Android](https://play.google.com/store/apps/details?id=kr.momentory.app) |
 | **[SIMVEX](https://github.com/HexabrewD)** | 3D 과학·공학 학습 솔루션 | DB 설계<br>AI Assistant 개발<br>API 명세 | |
 | **[요약해조](https://github.com/soheean1370/yoyakhaezo)** | 금융 문서 분석 및 요약 서비스 | OCR 및 문서 처리 파이프라인 | |
 
@@ -49,6 +62,10 @@ Computer Engineering @ PNU (2024–Present)
 | **AI·SW 마에스트로 17기** | 2026 | AI 서비스 개발 · 팀 프로젝트 |
 | **A.I.D** | 2025–Present | AI 학습 및 개발 활동 |
 
-## ✦ Contact
+## ✦ GitHub Activity
 
-✉ [g95eun@gmail.com](mailto:g95eun@gmail.com)
+<div align="center">
+  <img src="https://ghchart.rshah.org/606060/geun95" alt="geun95 GitHub contributions" width="100%">
+</div>
+
+
